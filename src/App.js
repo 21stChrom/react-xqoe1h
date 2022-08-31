@@ -13,7 +13,9 @@ export default function App() {
       <audio controls loop>
         <source src="https://cdn.jsdelivr.net/gh/21stChrom/practice-projects@main/src/Juice%20WRLD%20-%20I%20Hate%20Wasting%20Time%20%20%20(Unreleased)%20[prod.%20dfk]%20[720p].mp3" type="audio/mpeg "/>
       </audio>
-    
+      <audio controls loop>
+        <source src="" type="audio/mpeg "/>
+      </audio>
       <div></div>
       <p><span style={{fontWeight: 'bold'}}>{Date()}</span></p>
     </div>
