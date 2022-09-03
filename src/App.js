@@ -1,4 +1,5 @@
 import React from "react";
+
 import "./style.css";
 const audio = new Audio(this.url);  audio.addEventListener('ended', function () {
   this.currentTime = 0;
