@@ -17,7 +17,7 @@ export default function App() {
         <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-xqoe1h@main/src/Juice%20WRLD%20-%20Traumatized%20(%20Lyrics%20)%20[%20Unreleased%20]%20[%20Prod.%20by%20RockyRoadz%20]%20__%20Vibe%20Alone%20[720p].mp3" type="audio/mpeg" data-track-number="2"/>
       </audio>
       <div>
-        <iframe src="https://react-at9jyv.stackblitz.io/"></iframe>
+        <iframe className="gunit" src="https://react-at9jyv.stackblitz.io/"></iframe>
       </div>
       <p><span style={{fontWeight: 'bold'}}>{Date()}</span></p>
     </div>
