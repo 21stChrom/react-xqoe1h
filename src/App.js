@@ -10,7 +10,7 @@ audio.play().then(()=>{});
 export default function App() {
   return (
     <div class="container">
-      <h1>AppForTyson</h1>
+      <h1>21stChrom</h1>
       <audio controls loop >
         <source src="https://cdn.jsdelivr.net/gh/21stChrom/practice-projects@main/src/Juice%20WRLD%20-%20I%20Hate%20Wasting%20Time%20%20%20(Unreleased)%20[prod.%20dfk]%20[720p].mp3" type="audio/mpeg " />
         </audio><audio controls loop>
